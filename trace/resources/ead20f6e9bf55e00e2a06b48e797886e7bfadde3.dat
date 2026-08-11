@@ -1,0 +1,9 @@
+------WebKitFormBoundary0VBI7nI7yjqw76Mp
+Content-Disposition: form-data; name="ts"
+
+1786326831395
+------WebKitFormBoundary0VBI7nI7yjqw76Mp
+Content-Disposition: form-data; name="q"
+
+[{"app_id":"2220391788200892","posts":[["falco:bd_pdc_signals",{"e":"{\"asid\":\"e7e3571a-1517-45d3-af6c-f69788c385d1\",\"ct\":1786326829,\"sjd\":\"vJyLdlN19KPyAB9bwq5v/9cnEoP25hjJ+W85oh/ClCq3AC0ol3GVqmb39DwOYJHb0l05DHuSo7buIqR7SomfADH/9l1gbTLicN7RKeO4/tO+FcXW3uycRw+Z++nSxZKX8uY63b5SwBBY+EKjIObeoLeGFu5f2L8G\",\"sid\":-1}","r":1,"d":"fd.ARu1VT8pDMS5jBip2t6OUChqiMPXS1QrRKgu6ONbycfqsu7eZSrqhmK05Ff9W0i9T8hCGSaUHg3ztaruAJYHwMfd","s":"u1d38e:r053mg:6zqeqq","t":1786326830634.9001,"a":"1044.822.804.0 (1044822804)","b":[1,128]},1786326831395.3,0,461]],"trigger":"falco:bd_pdc_signals","user":"0","webSessionId":"u1d38e:r053mg:6zqeqq"}]
+------WebKitFormBoundary0VBI7nI7yjqw76Mp--
