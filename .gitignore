@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# IDE
+.idea/
+
+# Reports
+reports/
+
+# Screenshots
+screenshots/
+
+# Videos
+videos/
